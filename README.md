@@ -1,1 +1,1 @@
-# june-build
+# This is my javascript project
